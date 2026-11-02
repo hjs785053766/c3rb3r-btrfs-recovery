@@ -1,0 +1,5 @@
+*.log
+*.tsv
+*.bin
+config.json
+__pycache__/
